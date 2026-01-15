@@ -1,3 +1,3 @@
 export function Interests() {
-  return <h1>This is Interests</h1>;
+  return <h2>This is Interests</h2>;
 }
