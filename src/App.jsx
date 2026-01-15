@@ -4,7 +4,7 @@ import { Footer } from "../components/Footer.jsx";
 
 export function App() {
   return (
-    <div>
+    <div className="container">
       <Info />
       <Main />
       <Footer />

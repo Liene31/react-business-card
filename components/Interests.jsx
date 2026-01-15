@@ -1,3 +1,11 @@
 export function Interests() {
-  return <h2>This is Interests</h2>;
+  return (
+    <>
+      <h3>This is Interests</h3>
+      <p>
+        Food expert. Music scholar. Reader. Internet fanatic. Bacon buff.
+        Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.
+      </p>
+    </>
+  );
 }
